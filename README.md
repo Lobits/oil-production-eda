@@ -1,5 +1,3 @@
-# oil-production-eda
-Exploratory data analysis of oil production data using Python
 # Oil Production Exploratory Data Analysis
 
 ## Overview
